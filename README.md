@@ -6,3 +6,5 @@ This tutorial focuses mainly on Git and using GitHub as its remote.
 This repository is built step by step in the tutorial.
 
 it now includes steps for GitHub
+
+this line is added for confirmation of branch from pc goes to github
